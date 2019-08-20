@@ -8,3 +8,4 @@ RUN echo 'NODENAME=rabbit@localhost' > /etc/rabbitmq/rabbitmq-env.conf
 
 #amqp, management, mqtt, ws
 EXPOSE 5672 15672 1883 15675
+
